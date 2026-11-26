@@ -99,14 +99,14 @@
         5  153.664   gf180mcu_fd_sc_mcu7t5v0__or4_2
         1    8.781   gf180mcu_fd_sc_mcu7t5v0__tieh
        34  298.547   gf180mcu_fd_sc_mcu7t5v0__tiel
-       81 2.31E+03   gf180mcu_fd_sc_mcu7t5v0__xnor2_1
+       82 2.34E+03   gf180mcu_fd_sc_mcu7t5v0__xnor2_1
         2   74.637   gf180mcu_fd_sc_mcu7t5v0__xnor2_2
        21 1.11E+03   gf180mcu_fd_sc_mcu7t5v0__xnor3_1
-      451 1.19E+04   gf180mcu_fd_sc_mcu7t5v0__xor2_1
+      450 1.19E+04   gf180mcu_fd_sc_mcu7t5v0__xor2_1
        23  908.813   gf180mcu_fd_sc_mcu7t5v0__xor2_2
        69 3.48E+03   gf180mcu_fd_sc_mcu7t5v0__xor3_1
         8  509.286   gf180mcu_fd_sc_mcu7t5v0__xor3_2
 
-   Chip area for module '\tt_um_toivoh_demo_4tile': 202709.158400
+   Chip area for module '\tt_um_toivoh_demo_4tile': 202711.353600
      of which used for sequential elements: 55321.235200 (27.29%)
 
